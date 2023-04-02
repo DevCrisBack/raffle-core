@@ -1,3 +1,3 @@
 # raffle-core
 
-primer proyecto
+primer proyecto de rifas y espectactulos
